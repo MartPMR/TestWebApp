@@ -1,0 +1,14 @@
+C:\Users\Win10Pro\source\repos\TestWebApp2\TestWebApp2\bin\Debug\netcoreapp2.1\Properties\launchSettings.json
+C:\Users\Win10Pro\source\repos\TestWebApp2\TestWebApp2\bin\Debug\netcoreapp2.1\TestWebApp2.deps.json
+C:\Users\Win10Pro\source\repos\TestWebApp2\TestWebApp2\bin\Debug\netcoreapp2.1\TestWebApp2.runtimeconfig.json
+C:\Users\Win10Pro\source\repos\TestWebApp2\TestWebApp2\bin\Debug\netcoreapp2.1\TestWebApp2.runtimeconfig.dev.json
+C:\Users\Win10Pro\source\repos\TestWebApp2\TestWebApp2\bin\Debug\netcoreapp2.1\TestWebApp2.dll
+C:\Users\Win10Pro\source\repos\TestWebApp2\TestWebApp2\bin\Debug\netcoreapp2.1\TestWebApp2.pdb
+C:\Users\Win10Pro\source\repos\TestWebApp2\TestWebApp2\obj\Debug\netcoreapp2.1\TestWebApp2.csprojAssemblyReference.cache
+C:\Users\Win10Pro\source\repos\TestWebApp2\TestWebApp2\obj\Debug\netcoreapp2.1\TestWebApp2.RazorAssemblyInfo.cache
+C:\Users\Win10Pro\source\repos\TestWebApp2\TestWebApp2\obj\Debug\netcoreapp2.1\TestWebApp2.RazorAssemblyInfo.cs
+C:\Users\Win10Pro\source\repos\TestWebApp2\TestWebApp2\obj\Debug\netcoreapp2.1\TestWebApp2.AssemblyInfoInputs.cache
+C:\Users\Win10Pro\source\repos\TestWebApp2\TestWebApp2\obj\Debug\netcoreapp2.1\TestWebApp2.AssemblyInfo.cs
+C:\Users\Win10Pro\source\repos\TestWebApp2\TestWebApp2\obj\Debug\netcoreapp2.1\TestWebApp2.RazorTargetAssemblyInfo.cache
+C:\Users\Win10Pro\source\repos\TestWebApp2\TestWebApp2\obj\Debug\netcoreapp2.1\TestWebApp2.dll
+C:\Users\Win10Pro\source\repos\TestWebApp2\TestWebApp2\obj\Debug\netcoreapp2.1\TestWebApp2.pdb
