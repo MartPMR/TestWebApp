@@ -12,3 +12,12 @@ C:\Users\Win10Pro\source\repos\TestWebApp2\TestWebApp2\obj\Debug\netcoreapp2.1\T
 C:\Users\Win10Pro\source\repos\TestWebApp2\TestWebApp2\obj\Debug\netcoreapp2.1\TestWebApp2.RazorTargetAssemblyInfo.cache
 C:\Users\Win10Pro\source\repos\TestWebApp2\TestWebApp2\obj\Debug\netcoreapp2.1\TestWebApp2.dll
 C:\Users\Win10Pro\source\repos\TestWebApp2\TestWebApp2\obj\Debug\netcoreapp2.1\TestWebApp2.pdb
+C:\Users\Win10Pro\source\repos\TestWebApp2\TestWebApp2\bin\Debug\netcoreapp2.1\TestWebApp2.Views.dll
+C:\Users\Win10Pro\source\repos\TestWebApp2\TestWebApp2\bin\Debug\netcoreapp2.1\TestWebApp2.Views.pdb
+C:\Users\Win10Pro\source\repos\TestWebApp2\TestWebApp2\obj\Debug\netcoreapp2.1\TestWebApp2.TagHelpers.input.cache
+C:\Users\Win10Pro\source\repos\TestWebApp2\TestWebApp2\obj\Debug\netcoreapp2.1\TestWebApp2.TagHelpers.output.cache
+C:\Users\Win10Pro\source\repos\TestWebApp2\TestWebApp2\obj\Debug\netcoreapp2.1\TestWebApp2.RazorCoreGenerate.cache
+C:\Users\Win10Pro\source\repos\TestWebApp2\TestWebApp2\obj\Debug\netcoreapp2.1\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\Win10Pro\source\repos\TestWebApp2\TestWebApp2\obj\Debug\netcoreapp2.1\TestWebApp2.RazorTargetAssemblyInfo.cs
+C:\Users\Win10Pro\source\repos\TestWebApp2\TestWebApp2\obj\Debug\netcoreapp2.1\TestWebApp2.Views.pdb
+C:\Users\Win10Pro\source\repos\TestWebApp2\TestWebApp2\obj\Debug\netcoreapp2.1\TestWebApp2.csproj.CopyComplete
